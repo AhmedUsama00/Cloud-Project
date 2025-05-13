@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZA-PLACE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d183da2b0867ea229e9f207441db78ce7bd81e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fe8e26a4fc205502091699f67cd15501d15b5b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZA-PLACE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZA-PLACE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

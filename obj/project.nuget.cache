@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G2tR81f0Na4=",
+  "dgSpecHash": "MEQP2THX/Hc=",
   "success": true,
-  "projectFilePath": "D:\\Uni\\Semster 8\\Cloud Computing\\ZA-PLACE\\Cloud-Project\\ZA-PLACE.csproj",
+  "projectFilePath": "D:\\Uni\\Semster 8\\Cloud Computing\\Cloud-Project\\ZA-PLACE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ossam\\.nuget\\packages\\azure.core\\1.40.0\\azure.core.1.40.0.nupkg.sha512",
     "C:\\Users\\ossam\\.nuget\\packages\\azure.identity\\1.12.1\\azure.identity.1.12.1.nupkg.sha512",

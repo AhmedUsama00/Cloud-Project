@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Uni\\Semster 8\\Cloud Computing\\ZA-PLACE\\Cloud-Project\\ZA-PLACE.csproj": {}
+    "D:\\Uni\\Semster 8\\Cloud Computing\\Cloud-Project\\ZA-PLACE.csproj": {}
   },
   "projects": {
-    "D:\\Uni\\Semster 8\\Cloud Computing\\ZA-PLACE\\Cloud-Project\\ZA-PLACE.csproj": {
+    "D:\\Uni\\Semster 8\\Cloud Computing\\Cloud-Project\\ZA-PLACE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Uni\\Semster 8\\Cloud Computing\\ZA-PLACE\\Cloud-Project\\ZA-PLACE.csproj",
+        "projectUniqueName": "D:\\Uni\\Semster 8\\Cloud Computing\\Cloud-Project\\ZA-PLACE.csproj",
         "projectName": "ZA-PLACE",
-        "projectPath": "D:\\Uni\\Semster 8\\Cloud Computing\\ZA-PLACE\\Cloud-Project\\ZA-PLACE.csproj",
+        "projectPath": "D:\\Uni\\Semster 8\\Cloud Computing\\Cloud-Project\\ZA-PLACE.csproj",
         "packagesPath": "C:\\Users\\ossam\\.nuget\\packages\\",
-        "outputPath": "D:\\Uni\\Semster 8\\Cloud Computing\\ZA-PLACE\\Cloud-Project\\obj\\",
+        "outputPath": "D:\\Uni\\Semster 8\\Cloud Computing\\Cloud-Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
